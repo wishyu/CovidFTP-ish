@@ -1,0 +1,7 @@
+github = Github('personal_access_token)
+repository = github.get_user().get_repo('my_repo')
+# path in the repository
+filename = 'files/file.json'
+content = '{\"name\":\"beppe\",\"city\":\"amsterdam\"}'
+# create with commit message
+f = repository.create_file(filename, "create_file via PyGithub", content)

@@ -1,0 +1,42 @@
+{
+    "2021-12-30": {
+        "cases": 2841260,
+        "todayCases": 1623,
+        "deaths": 51373,
+        "todayDeaths": 133,
+        "recovered": 2778115,
+        "todayRecovered": 256,
+        "active": 11772,
+        "critical": 899,
+        "casesPerOneMillion": 25424,
+        "deathsPerOneMillion": 460,
+        "tests": 25078068,
+        "testsPerOneMillion": 224402,
+        "oneCasePerPeople": 39,
+        "oneDeathPerPeople": 2175,
+        "oneTestPerPeople": 4,
+        "activePerOneMillion": 105.34,
+        "recoveredPerOneMillion": 24858.92,
+        "criticalPerOneMillion": 8.04
+    },
+    "2021-12-31": {
+        "cases": 2843979,
+        "todayCases": 2961,
+        "deaths": 51504,
+        "todayDeaths": 132,
+        "recovered": 2778242,
+        "todayRecovered": 481,
+        "active": 14233,
+        "critical": 899,
+        "casesPerOneMillion": 25447,
+        "deathsPerOneMillion": 461,
+        "tests": 25217292,
+        "testsPerOneMillion": 225639,
+        "oneCasePerPeople": 39,
+        "oneDeathPerPeople": 2170,
+        "oneTestPerPeople": 4,
+        "activePerOneMillion": 127.35,
+        "recoveredPerOneMillion": 24859.17,
+        "criticalPerOneMillion": 8.04
+    }
+}
